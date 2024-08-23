@@ -1,7 +1,7 @@
 {
    "name": "MODX Queeg",
    "description": "Tiny extension that provides a one click access to MODX Resources from a website to its manager.",
-   "version": "2.0.0",
+   "version": "2.1.0",
    "short_name": "MODX Queeg",
    "author": "Lukas Bartak (bartweb.cz)",
    "permissions": [
@@ -30,5 +30,5 @@
       "128": "images/icon128.png"
    },
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "manifest_version": 2
+   "manifest_version": 3
 }
